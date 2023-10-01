@@ -1,0 +1,4 @@
+окт 01, 2023 10:17:00 PM calculator.FileLogger log
+INFO: Значение калькулятора 54.0 + 23.0i. Начало вызова метода sum с параметром 23.0 + 23.0i
+окт 01, 2023 10:17:00 PM calculator.FileLogger log
+INFO: Вызов метода sum произошел.
